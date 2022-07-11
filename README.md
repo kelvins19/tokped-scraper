@@ -19,6 +19,7 @@ The data includes:
 <li>Python 3.8</li>
 <li>Selenium</li>
 <li>BeautifulSoup4</li>
+<li>ChromeDriver v103</li>
 
 ## How to run
 1. Activate virtualenv
